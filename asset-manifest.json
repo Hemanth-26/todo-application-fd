@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/todo-application-fd/firstwebapp/static/css/main.628e5350.css",
-    "main.js": "/todo-application-fd/firstwebapp/static/js/main.2e17ef2f.js",
-    "static/js/787.0950e882.chunk.js": "/todo-application-fd/firstwebapp/static/js/787.0950e882.chunk.js",
-    "index.html": "/todo-application-fd/firstwebapp/index.html",
-    "main.628e5350.css.map": "/todo-application-fd/firstwebapp/static/css/main.628e5350.css.map",
-    "main.2e17ef2f.js.map": "/todo-application-fd/firstwebapp/static/js/main.2e17ef2f.js.map",
-    "787.0950e882.chunk.js.map": "/todo-application-fd/firstwebapp/static/js/787.0950e882.chunk.js.map"
+    "main.css": "/todo-application-fd/static/css/main.628e5350.css",
+    "main.js": "/todo-application-fd/static/js/main.bd548e8b.js",
+    "static/js/787.0950e882.chunk.js": "/todo-application-fd/static/js/787.0950e882.chunk.js",
+    "index.html": "/todo-application-fd/index.html",
+    "main.628e5350.css.map": "/todo-application-fd/static/css/main.628e5350.css.map",
+    "main.bd548e8b.js.map": "/todo-application-fd/static/js/main.bd548e8b.js.map",
+    "787.0950e882.chunk.js.map": "/todo-application-fd/static/js/787.0950e882.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.628e5350.css",
-    "static/js/main.2e17ef2f.js"
+    "static/js/main.bd548e8b.js"
   ]
 }
